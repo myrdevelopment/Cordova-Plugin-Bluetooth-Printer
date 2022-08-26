@@ -1,0 +1,13 @@
+{
+  "cordova": {
+    "id": "Cordova-Plugin-Bluetooth-Printer",
+    "platforms": [
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "Cordova Plugin Bluetooth printer",
+  "license": "MIT",
+  "name": "cordova-plugin-sunmi-inner-printer",
+  "version": "1.0.0"
+}
